@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "webpUtil"
+version = "0.0.1"
+authors = [
+    { name="Jamie Kemman", email="jkemma01@rams.shepherd.edu" },
+]
+description = "A simple one way conversion utility for .webp files. Static .webp files are converted to .png, and animated files are converted to .gif."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3.0",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "PyQt5"
+    "webptools"
+    "webp"
+]
+[project.urls]
+Homepage = "https://github.com/Camithilwen/webpUtil"
+Issues = "https://github.com/Camithilwen/webpUtil/issues"
