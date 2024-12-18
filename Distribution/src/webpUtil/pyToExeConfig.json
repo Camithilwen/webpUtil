@@ -1,0 +1,105 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "E:/Shepherd/Fall-2024/webpUtil/Distribution/src/webpUtil/webpUtil.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/jakek/Downloads/DR1 icon.ico"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": true
+  },
+  {
+   "optionDest": "splash",
+   "value": "C:/Users/jakek/Downloads/608ddf37f31bc3671f018ca37f1e8e5a-3479531950.jpg"
+  },
+  {
+   "optionDest": "debug",
+   "value": "all"
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": true
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/Shepherd/Fall-2024/webpUtil/Distribution/LICENSE;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/Shepherd/Fall-2024/webpUtil/Distribution/pyproject.toml;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/Shepherd/Fall-2024/webpUtil/Distribution/README.md;."
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "webp"
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "webptools"
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "_cffi_backend"
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "PyQt5"
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/Shepherd/Fall-2024/webpUtil/Distribution/src/webpUtil/WEBPconvert.py;."
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "WEBPconvert"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
